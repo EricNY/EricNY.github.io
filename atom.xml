@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Eric's Octopress Blog]]></title>
+  <link href="http://EricNY.github.io.github.io/atom.xml" rel="self"/>
+  <link href="http://EricNY.github.io.github.io/"/>
+  <updated>2013-09-17T11:53:11-04:00</updated>
+  <id>http://EricNY.github.io.github.io/</id>
+  <author>
+    <name><![CDATA[Eric Abt]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://EricNY.github.io.github.io/blog/2013/09/17/first-post/"/>
+    <updated>2013-09-17T00:00:00-04:00</updated>
+    <id>http://EricNY.github.io.github.io/blog/2013/09/17/first-post</id>
+    <content type="html"><![CDATA[<p>OK first post here and first time using Markdown.</p>
+
+<h1>Here is a header</h1>
+
+<p>And this is an <em>italicized sequence of words</em>
+&hellip;here is <strong>bold</strong></p>
+
+<p>How about a list?
+1. Breakfast
+2. Lunch
+3. Dinner
+..<em> ramen
+..</em> veggies
+..* fish</p>
+
+<hr />
+
+<p>layout: post
+title: &ldquo;First Post&rdquo;
+date: 2013-09-17 11:11
+comments: true</p>
+
+<h2>categories:</h2>
+]]></content>
+  </entry>
+  
+</feed>

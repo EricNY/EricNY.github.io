@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://EricNY.github.io.github.io/sitemap.xml 
