@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://EricNY.github.io.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Eric's Octopress Blog
+subtitle: My experience at Fullstack Academy
+author: Eric Abt
 simple_search: http://google.com/search
-description:
+description: This is where I will blog my daily victories and struggles as I continue my journey as a web developer.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
