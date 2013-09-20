@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Eric's Octopress Blog]]></title>
-  <link href="http://EricNY.github.io.github.io/atom.xml" rel="self"/>
-  <link href="http://EricNY.github.io.github.io/"/>
-  <updated>2013-09-17T11:53:11-04:00</updated>
-  <id>http://EricNY.github.io.github.io/</id>
+  <link href="http://EricNY.github.io/atom.xml" rel="self"/>
+  <link href="http://EricNY.github.io/"/>
+  <updated>2013-09-20T10:07:06-04:00</updated>
+  <id>http://EricNY.github.io/</id>
   <author>
     <name><![CDATA[Eric Abt]]></name>
     
@@ -14,10 +14,40 @@
 
   
   <entry>
+    <title type="html"><![CDATA[End Of Week 1 A Retrospective]]></title>
+    <link href="http://EricNY.github.io/blog/2013/09/20/end-of-week-1-a-retrospective/"/>
+    <updated>2013-09-20T00:00:00-04:00</updated>
+    <id>http://EricNY.github.io/blog/2013/09/20/end-of-week-1-a-retrospective</id>
+    <content type="html"><![CDATA[<p>We are wrapping up week one here at Fullstack and I think we covered a good amount of work but I feel like it will only get more intense from here. Something tells me there will be many evenings where I dont get home until verrry late:)</p>
+
+<p>The most interesting thing we did this week was probably our mailer assignment from yesterday. We got to use CSV files, .erb files, Ruby and HTML and we had to make them all work together. The final result was to be able to send an email or text to a list of friends notifying them of our latest blog entry.</p>
+
+<p>Something I struggle with is understanding what is going on with the code we are writing, specifically for this mailer assignment. While it is very interesting stuff and the code I wrote works I feel I do not have a deep understanding of what we just did. I want to review this project when I get the chance.</p>
+
+<p>I like the format of the class. David and Nimit give us enough lecture time so we cover various concepts but we also have plenty of time to actually get down to business and work through coding challenges ourselves.</p>
+
+<p>Pair programming is new to me but I can see the benefits. Sometimes it was unclear which one of us was in the driver&rsquo;s seat as we talked through problems but it definitely helps to have a sounding board for your ideas as we are working through a challenge together.</p>
+
+<p>This weekend I plan on reviewing what we did in class this week as well as some of the pre-work.</p>
+
+<p>-Eric</p>
+
+<hr />
+
+<p>layout: post
+title: &ldquo;End of Week 1: A Retrospective&rdquo;
+date: 2013-09-20 09:35
+comments: true</p>
+
+<h2>categories:</h2>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://EricNY.github.io.github.io/blog/2013/09/17/first-post/"/>
+    <link href="http://EricNY.github.io/blog/2013/09/17/first-post/"/>
     <updated>2013-09-17T00:00:00-04:00</updated>
-    <id>http://EricNY.github.io.github.io/blog/2013/09/17/first-post</id>
+    <id>http://EricNY.github.io/blog/2013/09/17/first-post</id>
     <content type="html"><![CDATA[<p>OK first post here and first time using Markdown.</p>
 
 <h1>Here is a header</h1>
