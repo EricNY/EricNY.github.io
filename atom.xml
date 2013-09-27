@@ -4,7 +4,7 @@
   <title><![CDATA[Eric's Octopress Blog]]></title>
   <link href="http://EricNY.github.io/atom.xml" rel="self"/>
   <link href="http://EricNY.github.io/"/>
-  <updated>2013-09-27T09:49:25-04:00</updated>
+  <updated>2013-09-27T10:02:41-04:00</updated>
   <id>http://EricNY.github.io/</id>
   <author>
     <name><![CDATA[Eric Abt]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Week 2 Update]]></title>
+    <link href="http://EricNY.github.io/blog/2013/09/27/week-2-update/"/>
+    <updated>2013-09-27T00:00:00-04:00</updated>
+    <id>http://EricNY.github.io/blog/2013/09/27/week-2-update</id>
+    <content type="html"><![CDATA[<p>Hello all,</p>
+
+<p>We are finishing up week 2 here at Fullstack Academy and I couldnt be happier! This week we wrote an AI program that plays Blackjack, we worked on getting a basic working knowledge of SQL, and we learned how to use Ruby code to connect to and query an SQLite database of IMDB data.</p>
+
+<p>For the Blackjack program it was more TDD as we partnered up with another class member. The SQL exercises started very basic but the last few and the extra credit got a little hairy. Now I know just how complex SQL queries can become but its fun to puzzle the pieces together. Using Ruby to connect to a database was very interesting as well. It really helped for me to start putting the pieces together of the various disciplines involved in web development.</p>
+
+<p>This weekend I hope to review various rails tutorials as well as my mailer program which is what I use to send my weekly updates to my blog subscribers. I dont have it working exactly as it should just yet.</p>
+
+<p>Until next time!!</p>
+
+<hr />
+
+<p>layout: post
+title: &ldquo;Week 2 update&rdquo;
+date: 2013-09-27 09:50
+comments: true</p>
+
+<h2>categories:</h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[End Of Week 1 A Retrospective]]></title>
