@@ -4,7 +4,7 @@
   <title><![CDATA[Eric's Octopress Blog]]></title>
   <link href="http://EricNY.github.io/atom.xml" rel="self"/>
   <link href="http://EricNY.github.io/"/>
-  <updated>2013-10-18T11:06:16-04:00</updated>
+  <updated>2013-10-18T14:44:53-04:00</updated>
   <id>http://EricNY.github.io/</id>
   <author>
     <name><![CDATA[Eric Abt]]></name>
@@ -35,6 +35,34 @@
 <p>layout: post
 title: &ldquo;End Week 5&rdquo;
 date: 2013-10-18 10:29
+comments: true</p>
+
+<h2>categories:</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Crowdcontrol Is Live]]></title>
+    <link href="http://EricNY.github.io/blog/2013/10/18/crowdcontrol-is-live/"/>
+    <updated>2013-10-18T00:00:00-04:00</updated>
+    <id>http://EricNY.github.io/blog/2013/10/18/crowdcontrol-is-live</id>
+    <content type="html"><![CDATA[<p>CrowdControl is live!</p>
+
+<p>Check it out here: <a href="http://crowd-control.herokuapp.com/">http://crowd-control.herokuapp.com/</a></p>
+
+<p>Thanks for hanging in there. Couple things&hellip;
+1. password must be 8 characters
+2. to get the picture carousel working you have to click on an arrow once.
+3. Im not sure the video background is necessary but dammit its cool!
+4. If you just want to see the payment functionality obviously we dont want you to enter your real cc info. You can just input 4242424242&hellip;..</p>
+
+<p>Not bad for a couple of newbies hacking away for 3 days:)</p>
+
+<hr />
+
+<p>layout: post
+title: &ldquo;crowdcontrol is live&rdquo;
+date: 2013-10-18 14:19
 comments: true</p>
 
 <h2>categories:</h2>
