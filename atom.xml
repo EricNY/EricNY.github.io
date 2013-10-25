@@ -4,7 +4,7 @@
   <title><![CDATA[Eric's Octopress Blog]]></title>
   <link href="http://EricNY.github.io/atom.xml" rel="self"/>
   <link href="http://EricNY.github.io/"/>
-  <updated>2013-10-18T14:44:53-04:00</updated>
+  <updated>2013-10-25T09:46:19-04:00</updated>
   <id>http://EricNY.github.io/</id>
   <author>
     <name><![CDATA[Eric Abt]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Halfway Point]]></title>
+    <link href="http://EricNY.github.io/blog/2013/10/25/halfway-point/"/>
+    <updated>2013-10-25T00:00:00-04:00</updated>
+    <id>http://EricNY.github.io/blog/2013/10/25/halfway-point</id>
+    <content type="html"><![CDATA[<p>Halfway point is here, this is the end of week 6. We started with frontend development this week which meant brushing up on our HTML and CSS and getting into Javascript.</p>
+
+<p>I wrote a lot of code using JS in preparing for this course but it certainly took some time to get used to it again since we&rsquo;ve been focused on using Ruby so much these past few weeks. The principles are still the same no matter what language you use like recursion, iteration, various data structures, etc&hellip; they just each have their own way of implementing them.</p>
+
+<p>I am getting more comfortable using various tools in my &ldquo;box&rdquo;. Apparently that is the cool programmer way to refer to my computer! Lol. I have a lot more to learn though regarding my development environment, even my text editor has more tricks up its sleeve that I still need to get familiar with.</p>
+
+<p>This week we started Fullstack&rsquo;s &ldquo;CTO Program&rdquo; talks. We had a group discussion with Dave where we talked about concepts from Eric Reis&#8217; book The Lean Startup. It is a very exciting time to be a web developer since we can start a business with basically nothing. Of course scaling is an whole other matter but it has been hammered home to us that we should not focus on scaling issues until the time comes where it is necessary. Until then dont let it get in the way of trying out new ideas.</p>
+
+<hr />
+
+<p>layout: post
+title: &ldquo;Halfway Point&rdquo;
+date: 2013-10-25 09:18
+comments: true</p>
+
+<h2>categories:</h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[End Week 5]]></title>
