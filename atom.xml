@@ -4,7 +4,7 @@
   <title><![CDATA[Eric's Octopress Blog]]></title>
   <link href="http://EricNY.github.io/atom.xml" rel="self"/>
   <link href="http://EricNY.github.io/"/>
-  <updated>2013-10-25T09:46:19-04:00</updated>
+  <updated>2013-11-01T10:27:15-04:00</updated>
   <id>http://EricNY.github.io/</id>
   <author>
     <name><![CDATA[Eric Abt]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[week 7]]></title>
+    <link href="http://EricNY.github.io/blog/2013/11/01/week-7/"/>
+    <updated>2013-11-01T09:57:00-04:00</updated>
+    <id>http://EricNY.github.io/blog/2013/11/01/week-7</id>
+    <content type="html"><![CDATA[<p>So I&rsquo;m in the elevator yesterday right? And one of my classmates who is also in there you know&hellip; he turns and says to me he says&hellip; he says to me&hellip; get this&hellip; he says to me&hellip; your&#8217;e not gonna believe it&hellip; he says to me &ldquo;I can&rsquo;t tell if our time here at Fullstack is flying by or if it feels like we&rsquo;ve been here forever.&rdquo; Can you believe it? Can you believe he said that?!</p>
+
+<p>Dont ask me why I felt the need to talk that way just now. It&rsquo;s early. Anyway, I feel the same way as my classmate. Even our teacher David looked at the log of assignments we&rsquo;ve all done and commenting on the number of projects in there he said &ldquo;Wow, we&rsquo;ve been through so much together!&rdquo;. It seems to be a pervasive feeling around the classroom that while we have all learned a ton of stuff at breakneck speed the end is almost here. I guess 7 weeks of full time learning can be considered a long time for a class we all still feel like there is so much more to learn.</p>
+
+<p>This week we did some JQuery work and were introduced to Backbone. Now the bulk of the learning new technologies and languages is basically over and it&rsquo;s project time. I need to finalize an idea for a capstone project. I have some ideas but want to run them by Nimit and David first.</p>
+
+<p>But this is probably just what I need in regards to my feeling about how my time here is spent. I have been introduced to a lot of new things and done some cool stuff but I need to crystallize my knowledge of the material. No better way to do that than to work through projects and gain experience using the tools.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Halfway Point]]></title>
